@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tuto/static/css/main.22941023.css",
+    "main.js": "/react-tuto/static/js/main.bc4ac19d.js",
+    "index.html": "/react-tuto/index.html",
+    "main.22941023.css.map": "/react-tuto/static/css/main.22941023.css.map",
+    "main.bc4ac19d.js.map": "/react-tuto/static/js/main.bc4ac19d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22941023.css",
+    "static/js/main.bc4ac19d.js"
+  ]
+}
